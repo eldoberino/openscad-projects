@@ -19,3 +19,7 @@ The design is made for the following components:
   replace its 5kOhm potentiometer with fixed resistors (2.7kOhm & 2.2kOhm).
   See online for instructions how to do this.
 - 3 micro switches with dimensions 20mm x 10mm x 6mm
+
+See here for results: https://www.thingiverse.com/thing:7268332
+
+See here for instructions regarding electronics & software: https://github.com/eldoberino/battery_carousel
